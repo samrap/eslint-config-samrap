@@ -26,4 +26,3 @@ After installing `eslint-config-samrap` as a dependency, you can extend the conf
     }
 }
 ```
-
