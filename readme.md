@@ -18,7 +18,7 @@ npm install eslint eslint-config-samrap
 
 After installing `eslint-config-samrap` as a dependency, you can extend the configuration in your [ESLint Configuration](http://eslint.org/docs/user-guide/configuring):
 
-```json
+```javascript
 {
   "extends": "samrap",
   "rules": {
