@@ -1,5 +1,7 @@
 # samrap-eslint-config
 
+[![Build Status](https://travis-ci.org/samrap/eslint-config-samrap.svg?branch=master)](https://travis-ci.org/samrap/eslint-config-samrap)
+
 An ESLint configuration for my personal tastes.
 
 ### Installation
