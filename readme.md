@@ -20,10 +20,10 @@ After installing `eslint-config-samrap` as a dependency, you can extend the conf
 
 ```javascript
 {
-  "extends": "samrap",
-  "rules": {
-    // Add or override rules here...
-  }
+    "extends": "samrap",
+    "rules": {
+        // Add or override rules here...
+    }
 }
 ```
 
