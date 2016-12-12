@@ -1,0 +1,39 @@
+{
+    "name": "eslint-config-samrap",
+    "version": "0.1.0",
+    "description": "ESLint shareable config for my personal preferences.",
+    "license": "MIT",
+    "author": "Sam Rapaport",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "test": "node test/test.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "keywords": [
+        "sam rapaport",
+        "samrap",
+        "code",
+        "quality",
+        "style",
+        "lint",
+        "linter",
+        "eslint",
+        "code style",
+        "strict",
+        "check",
+        "checker",
+        "verify",
+        "enforce"
+    ],
+    "devDependencies": {
+        "eslint": "^3.8.1"
+    },
+    "peerDependencies": {
+        "eslint": ">=3.8.1"
+    },
+    "main": "index.js"
+}
